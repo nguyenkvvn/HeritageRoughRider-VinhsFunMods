@@ -11,7 +11,7 @@ If you are print the grip piece (solo), you will need an M5 Nut and an M5 x 20mm
 Use this printing guide to see what you need to print for your model:
 - Base/All: HRR PRA Fore End Base
 - 4.5in barrel: Fore End Base + 4.5in End Cap
-- 6.0in barrel: Fore End Base + 6.5in End Cap
+- 6.0in barrel: Fore End Base + 6.0in End Cap
 - 16.0in barrel: Fore End Base + 7.0in Extension + 5.3in Extension + 4.5in End Cap
 
 
