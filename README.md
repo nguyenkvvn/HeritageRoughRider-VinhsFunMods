@@ -9,6 +9,7 @@ For the fore end pieces, there is some rough handling required. After printing t
 If you are print the grip piece (solo), you will need an M5 Nut and an M5 x 20mm socket head cap screw.
 
 Use this printing guide to see what you need to print for your model:
+- 3.5in Birdhead model: Print _only_ the Birdhead assembly
 - Base/All: HRR PRA Fore End Base
 - 4.5in barrel: Fore End Base + 4.5in End Cap
 - 6.0in barrel: Fore End Base + 6.0in End Cap
